@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="task">Список дел</string>
+    <string name="task_one">Забрать посылку</string>
+    <string name="task_two">Выключить утюг</string>
+    <string name="task_date">10.03.2023</string>
+</resources>
